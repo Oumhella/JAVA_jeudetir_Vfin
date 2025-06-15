@@ -81,3 +81,12 @@ Le projet utilise plusieurs plugins Maven :
 - `maven-surefire-plugin` : Pour l'exécution des tests
 
 La configuration complète se trouve dans le fichier `pom.xml`. 
+
+## Equipe de travail
+Amine El biyadi  
+Douae Rohand  
+Abdellatif Oumhella  
+Mohammed Aymane Saber
+
+## Licence
+Ce projet est réalisé à des fins éducatives dans le cadre d’un module universitaire. Toute réutilisation ou contribution est la bienvenue sous conditions respectueuses de l’usage académique.
